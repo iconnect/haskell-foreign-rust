@@ -49,6 +49,7 @@ common lang
       TypeOperators
       UndecidableInstances
       ViewPatterns
+  pkgconfig-depends: haskell_ffi
 
 library
   import:
